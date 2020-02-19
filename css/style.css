@@ -38,6 +38,13 @@ body{
 	font-size: 30px;
 	border-radius: 5px;
 }
+#main-share i{
+	background: #333;
+	color: #fff;
+	padding: 4px;
+	font-size: 30px;
+	border-radius: 5px;
+}
 
 
 
