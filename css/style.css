@@ -31,6 +31,13 @@ body{
 	padding-top: 150px;
 	padding-bottom: 50px;
 }
+#main-explore i{
+	background: #333;
+	color: #fff;
+	padding: 4px;
+	font-size: 30px;
+	border-radius: 5px;
+}
 
 
 
